@@ -1,0 +1,7 @@
+canvas {
+  width: 120px;
+  height: 120px;
+  margin: 5px;
+  border: 1px solid #666;
+  /* transform: scale(.5); */
+}
