@@ -4,3 +4,5 @@
 npm install
 npm run start
 ```
+
+![img](https://raw.githubusercontent.com/lrenc/Mona_Lisa_Smile/master/img.png)
